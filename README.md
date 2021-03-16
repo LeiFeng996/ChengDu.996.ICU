@@ -1,4 +1,4 @@
 # ChengDu.996.ICU
-### 这是一个成都范围内的996公司名单，赚钱只为进ICU！！！
+## 成都市企业良性改革建议名单！战胜ICU工作！战胜违反劳动法的无良企业！
 > 这个名单都是广大的网友们提供的，也不是说针对谁，只是给大家提供一个参考。
-> <a href="mailto:leifeng996@gmail.com">邮箱</a>
+> 如果你有什么想说的话，请发送<a href="mailto:leifeng996@gmail.com">邮箱</a>(leifeng996@gmail.com)，并附上你的原因，我们会后续跟进更新。
