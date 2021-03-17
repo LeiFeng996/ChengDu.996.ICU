@@ -5,4 +5,5 @@
 
 [中华人民共和国劳动法](https://github.com/ToEnjoyLife/ChengDu.996.ICU/blob/main/LaborLaw.pdf)  
 [不良企业](https://github.com/ToEnjoyLife/ChengDu.996.ICU/blob/main/list/icu-list.md)  
-[培训或骗子公司](https://github.com/ToEnjoyLife/ChengDu.996.ICU/blob/main/list/swindler-list.md)
+[培训或骗子公司](https://github.com/ToEnjoyLife/ChengDu.996.ICU/blob/main/list/swindler-list.md)  
+[Gitee地址](https://gitee.com/leifeng996/ChengDu.996.ICU)
